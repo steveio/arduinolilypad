@@ -1,0 +1,56 @@
+
+Lilypad Arduino
+
+KIT-10354 Contents:
+
+1 x LilyPad Simple Board
+1 x LilyPad Button
+1 x LilyPad Slide Switch
+5 x LilyPad White LED
+1 x LilyPad RGB tri-color LED
+1 x LilyPad Light Sensor
+1 x LilyPad Temp Sensor
+1 x LilyPad Buzzer
+1 x LilyPad Vibe board
+1 x LilyPad FTDI Basic (USB-B cable required)
+1 x 110mAh Lithium Polymer Battery (3,7v 110mAh)
+  jst connector 2 pin
+2 x Bobbins of Conductive Thread
+1 x Needle Set
+
+Getting Started:
+https://learn.sparkfun.com/tutorials/protosnap-lilypad-development-simple-hookup-guide?_ga=2.75254737.252778046.1584826284-851681840.1582383852
+
+Pretty OWLS
+
+2x White LED eyes
+2x White LED wings
+RGB LED heart
+Vibe(ration) board heart
+
+Light Sensor - activate LEDS
+Temp Sensor - Change RGB LED Heart Colour (warm/red, cold/blue)
+
+
+Questions -
+
+LED - on/off, blink, flash, fade in/out
+      parallel, series, sequential (graph), matrix
+
+2x OWLS?   How to share single main board
+  XBee grid / mesh
+
+Sensors:
+
+Touch - soft switch: touch, squeeze (compress), stroke/swipe/slide
+  https://hackaday.com/2018/03/17/capacitive-and-resistive-touch-sensors-for-wearables/
+  https://www.adafruit.com/product/1168
+
+Haptic - presence, shake, shock (drop/bounce)
+
+Sound - simple sound effect capability
+
+Technical Data:
+
+Main Board Simple
+https://cdn.sparkfun.com/assets/b/3/b/f/0/LilyPad-Simple-v25a.pdf
